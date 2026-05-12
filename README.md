@@ -46,4 +46,4 @@ Este curso apresenta as principais ferramentas usadas no trabalho diário com da
 
 ## Autor
 
-Nome do aluno — [github.com/usuario](https://github.com/usuario)
+Marcos Silveira — [github.com/usuario](https://github.com/Marcos-Silveira79)
